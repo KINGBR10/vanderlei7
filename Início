@@ -1,7 +1,7 @@
 
 ﻿<channels>
 <channel>
-<name> [B] [COLOR lime]●[/COLOR] -> [COLOR gold] Canal [/COLOR] - KING BR <- [COLOR lime]●[/COLOR] [/B]</name>
+<name> [B] [COLOR lime]●[/COLOR] -> [COLOR gold] Canal ( m3u8 )[/COLOR] - KING BR <- [COLOR lime]●[/COLOR] [/B]</name>
 <thumbnail>https://archive.org/download/20200604-145554/20200604_145554.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/KINGBR10/vanderlei7/main/Canal</externallink>
 <fanart>http://hd.wallpaperswide.com/thumbs/avengers_infinity_war_2018_movie_captain_america-t2.jpg</fanart>
@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name> [COLOR lime]●[/COLOR] [B] -> Séries  -  [COLOR green] <-[/COLOR] [/B] [COLOR lime]●[/COLOR] </name>
+<name> [COLOR lime]●[/COLOR] [B] -> Séries   ( m3u8 ) [COLOR green] <-[/COLOR] [/B] [COLOR lime]●[/COLOR] </name>
 <thumbnail>https://is.gd/LGVb7L</thumbnail>
 <externallink>https://raw.githubusercontent.com/KINGBR10/vanderlei7/main/S%C3%89RIES</externallink>
 <fanart>https://is.gd/LGVb7L</fanart>
@@ -30,7 +30,7 @@
 
 ﻿<channels>
 <channel>
-<name> [B] [COLOR lime]●[/COLOR] -> [COLOR gold] FILMES [/COLOR] - KING BR <- [COLOR lime]●[/COLOR] [/B]</name>
+<name> [B] [COLOR lime]●[/COLOR] -> [COLOR gold] FILMES( m3u8 ) [/COLOR] - KING BR <- [COLOR lime]●[/COLOR] [/B]</name>
 <thumbnail>https://archive.org/download/20200604-145554/20200604_145554.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/KINGBR10/vanderlei7/main/Filmes</externallink>
 <fanart>http://hd.wallpaperswide.com/thumbs/avengers_infinity_war_2018_movie_captain_america-t2.jpg</fanart>
@@ -41,6 +41,61 @@
             </info>
 </channel>
 </channels>
+
+
+
+
+
+
+
+
+
+
+
+
+﻿<channels>
+<channel>
+<name> [B] [COLOR lime]●[/COLOR] -> [COLOR gold] Canal ( HLS ) [/COLOR] - KING BR <- [COLOR lime]●[/COLOR] [/B]</name>
+<thumbnail>https://archive.org/download/20200604-145554/20200604_145554.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/KINGBR10/vanderlei7/main/Canal%20HLS</externallink>
+<fanart>http://hd.wallpaperswide.com/thumbs/avengers_infinity_war_2018_movie_captain_america-t2.jpg</fanart>
+<info>  [B][ BY KING BR ]   
+    
+               </info>
+</channel>
+</channels>
+
+
+
+<channels>
+<channel>
+<name> [COLOR lime]●[/COLOR] [B] -> Séries   ( HLS ) [COLOR green] <-[/COLOR] [/B] [COLOR lime]●[/COLOR] </name>
+<thumbnail>https://is.gd/LGVb7L</thumbnail>
+<externallink>https://raw.githubusercontent.com/KINGBR10/vanderlei7/main/S%C3%89RIES%20HLS</externallink>
+<fanart>https://is.gd/LGVb7L</fanart>
+<info>  [ BY EVERSON SANTOS ]    
+    
+
+                     </info>
+</channel>
+</channels>
+
+
+
+﻿<channels>
+<channel>
+<name> [B] [COLOR lime]●[/COLOR] -> [COLOR gold] FILMES ( HLS ) [/COLOR] - KING BR <- [COLOR lime]●[/COLOR] [/B]</name>
+<thumbnail>https://archive.org/download/20200604-145554/20200604_145554.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/KINGBR10/vanderlei7/main/Filmes%20HLS</externallink>
+<fanart>http://hd.wallpaperswide.com/thumbs/avengers_infinity_war_2018_movie_captain_america-t2.jpg</fanart>
+<info>  [B][ BY KING BR ]   
+    
+
+
+            </info>
+</channel>
+</channels>
+
 
 
 

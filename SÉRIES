@@ -1,1 +1,8 @@
 
+#EXTM3U size="Medium"
+#EXTINF:-1 type="playlist" tvg-id="Silicon Valley" tvg-logo="http://cclb.ddns.net:25461/images/b0714c51585a468d8f151176f004abdb.jpg" description="",
+Silicon Valley
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_episodes/8/
+#EXTINF:-1 type="playlist" tvg-id="Segunda Chamada" tvg-logo="http://cclb.ddns.net:25461/images/76970e150704d2f720105f668bb4422e.jpg" description="",
+Segunda Chamada
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_episodes/11/

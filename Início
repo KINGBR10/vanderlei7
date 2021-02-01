@@ -16,7 +16,7 @@
 <channels>
 <channel>
 <name> [COLOR lime]●[/COLOR] [B] -> Séries   ( m3u8 ) [COLOR green] <-[/COLOR] [/B] [COLOR lime]●[/COLOR] </name>
-<thumbnail>http://dash.cclb.live:80/ssiptv/get/Vanderlei7/3591188781/list_episodes</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/KINGBR10/vanderlei7/main/S%C3%89RIES</thumbnail>
 <externallink>https://raw.githubusercontent.com/KINGBR10/vanderlei7/main/S%C3%89RIES</externallink>
 <fanart>https://is.gd/LGVb7L</fanart>
 <info>  [ BY EVERSON SANTOS ]    
@@ -71,7 +71,7 @@
 <channel>
 <name> [COLOR lime]●[/COLOR] [B] -> Séries   ( HLS ) [COLOR green] <-[/COLOR] [/B] [COLOR lime]●[/COLOR] </name>
 <thumbnail>https://is.gd/LGVb7L</thumbnail>
-<externallink>http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_series/-1/</externallink>
+<externallink>https://raw.githubusercontent.com/KINGBR10/vanderlei7/main/S%C3%89RIES</externallink>
 <fanart>https://is.gd/LGVb7L</fanart>
 <info>  [ BY EVERSON SANTOS ]    
     

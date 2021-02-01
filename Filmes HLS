@@ -1,1 +1,174 @@
 
+#EXTM3U size="Medium"
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+VER TUDO
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/-1/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | CINEMA
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/39/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | NATAL
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/305/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | LANÇAMENTOS
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/267/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | 4K
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/240/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+ FILMES | ANOS 70-80
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/867/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | AÇÃO / AVENTURA
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/25/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | ANIMES
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/26/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | CLÁSSICOS
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/27/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | COMÉDIA
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/16/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | CRIMES
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/77/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | DOCUMENTÁRIOS
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/34/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | DRAMA
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/43/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | FANTASIA
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/84/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | FAROESTE
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/29/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | FICÇÃO
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/30/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | GUERRA
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/24/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | INFANTIL
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/21/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | MARVEL / DC
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/23/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | NACIONAL
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/31/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | RELIGIÃO
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/32/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | ROMANCE
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/33/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | TERROR / SUSPENSE
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/20/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | ADULTOS
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/187/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | EMPREENDEDOR 
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/311/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | LEGENDADOS
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/81/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+SHOWS | LIVES DA QUARENTENA
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/448/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | TRILOGIA SENHOR DOS ANÉIS
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/159/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | COLETÂNIA HARRY POTTER
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/42/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+STANDUP COMEDY 
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/538/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | COLETÂNEA ROCKY BALBOA
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/137/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | COLETÂNEA VELOZES E FURIOSOS
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/141/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | COLETÂNEA A HORA DO PESADELO
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/145/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | COLETÂNEA BRUCE LEE
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/158/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | COLETÂNEA LOUCADEMIA DE POLÍCIA
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/161/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | COLETÂNEA MAZZAROPI
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/162/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | COLETÂNEA STAR WARS
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/289/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | Coletânea Sexta-Feira 13
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/330/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | COLETÂNEA 007
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/541/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | COLETÂNEA - OS TRAPALHÕES
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/543/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FILMES | COLETÂNEA RAMBO
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/710/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+FUTEBOL RETRÔ
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/742/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",
+ FILMES | COLETÂNEA JORNADA NAS ESTRELAS 
+#EXTBG: #11609e
+http://dash.cclb.live/ssiptv/get/Vanderlei7/3591188781/list_movies/864/

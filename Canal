@@ -1,1 +1,375 @@
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AXN FHD" tvg-logo="http://cclb.ddns.net:25461/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="CANAIS | ALTERNATIVOS",AXN FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/78995
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="http://cclb.ddns.net:25461/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="CANAIS | ALTERNATIVOS",AXN HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/78996
+#EXTINF:-1 tvg-id="" tvg-name="AXN SD" tvg-logo="http://cclb.ddns.net:25461/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="CANAIS | ALTERNATIVOS",AXN SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/78997
+#EXTINF:-1 tvg-id="" tvg-name="BabyTV HD" tvg-logo="http://cclb.ddns.net:25461/images/45914664eafc286fb139a5036f142106.png" group-title="CANAIS | ALTERNATIVOS",BabyTV HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/78998
+#EXTINF:-1 tvg-id="" tvg-name="BabyTV SD" tvg-logo="http://cclb.ddns.net:25461/images/45914664eafc286fb139a5036f142106.png" group-title="CANAIS | ALTERNATIVOS",BabyTV SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/78999
+#EXTINF:-1 tvg-id="" tvg-name="Band Campinas SD" tvg-logo="http://10gbps.stream:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS | ALTERNATIVOS",Band Campinas SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79000
+#EXTINF:-1 tvg-id="" tvg-name="Band News HD" tvg-logo="http://10gbps.stream:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS | ALTERNATIVOS",Band News HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79001
+#EXTINF:-1 tvg-id="" tvg-name="Band News SD" tvg-logo="http://10gbps.stream:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS | ALTERNATIVOS",Band News SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79002
+#EXTINF:-1 tvg-id="" tvg-name="Band Nordeste SD" tvg-logo="http://10gbps.stream:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS | ALTERNATIVOS",Band Nordeste SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79003
+#EXTINF:-1 tvg-id="" tvg-name="Band SP HD" tvg-logo="http://10gbps.stream:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS | ALTERNATIVOS",Band SP HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79004
+#EXTINF:-1 tvg-id="" tvg-name="Band SP SD" tvg-logo="http://10gbps.stream:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS | ALTERNATIVOS",Band SP SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79005
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports FHD" tvg-logo="http://10gbps.stream:8080/images/b92ca3bd619bfa5d2eed95d39938653d.png" group-title="CANAIS | ALTERNATIVOS",Band Sports FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79006
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports SD" tvg-logo="http://10gbps.stream:8080/images/b92ca3bd619bfa5d2eed95d39938653d.png" group-title="CANAIS | ALTERNATIVOS",Band Sports SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79007
+#EXTINF:-1 tvg-id="" tvg-name="Bis HD" tvg-logo="http://10gbps.stream:8080/images/227cee183f9b009e2f81f2f8339e281b.png" group-title="CANAIS | ALTERNATIVOS",Bis HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79008
+#EXTINF:-1 tvg-id="" tvg-name="Bis SD" tvg-logo="http://10gbps.stream:8080/images/227cee183f9b009e2f81f2f8339e281b.png" group-title="CANAIS | ALTERNATIVOS",Bis SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79009
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang FHD" tvg-logo="http://cclb.ddns.net:25461/images/f91022004ce9aab1397c498ec1ee684b.png" group-title="CANAIS | ALTERNATIVOS",Boomerang FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79010
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD" tvg-logo="http://cclb.ddns.net:25461/images/f91022004ce9aab1397c498ec1ee684b.png" group-title="CANAIS | ALTERNATIVOS",Boomerang HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79011
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang SD" tvg-logo="http://cclb.ddns.net:25461/images/f91022004ce9aab1397c498ec1ee684b.png" group-title="CANAIS | ALTERNATIVOS",Boomerang SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79012
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil SD" tvg-logo="http://10gbps.stream:8080/images/6e9236ab3e71fd6f578d57db5855f7aa.png" group-title="CANAIS | ALTERNATIVOS",Canal Brasil SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79013
+#EXTINF:-1 tvg-id="" tvg-name="Canal do Boi SD" tvg-logo="http://10gbps.stream:8080/images/62cb19c8de3b1ae6482f3e8bacdf9a59.png" group-title="CANAIS | ALTERNATIVOS",Canal do Boi SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79014
+#EXTINF:-1 tvg-id="" tvg-name="Canal Rural SD" tvg-logo="http://10gbps.stream:8080/images/bf1cb768332244e3a68070bd82bd2540.png" group-title="CANAIS | ALTERNATIVOS",Canal Rural SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79015
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sony FHD" tvg-logo="http://10gbps.stream:8080/images/33561003f44d374c719506bef4faeba4.png" group-title="CANAIS | ALTERNATIVOS",Canal Sony FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79016
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sony HD" tvg-logo="http://10gbps.stream:8080/images/33561003f44d374c719506bef4faeba4.png" group-title="CANAIS | ALTERNATIVOS",Canal Sony HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79017
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sony SD" tvg-logo="http://10gbps.stream:8080/images/33561003f44d374c719506bef4faeba4.png" group-title="CANAIS | ALTERNATIVOS",Canal Sony SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79018
+#EXTINF:-1 tvg-id="" tvg-name="Canção Nova HD" tvg-logo="http://10gbps.stream:8080/images/b1e41da6725a105391a0159d25f4ff30.png" group-title="CANAIS | ALTERNATIVOS",Canção Nova HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79019
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network FHD" tvg-logo="http://10gbps.stream:8080/images/46e25e123679ab1c022b431dc86ee0a2.png" group-title="CANAIS | ALTERNATIVOS",Cartoon Network FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79020
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="http://10gbps.stream:8080/images/46e25e123679ab1c022b431dc86ee0a2.png" group-title="CANAIS | ALTERNATIVOS",Cartoon Network HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79021
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network SD" tvg-logo="http://10gbps.stream:8080/images/46e25e123679ab1c022b431dc86ee0a2.png" group-title="CANAIS | ALTERNATIVOS",Cartoon Network SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79022
+#EXTINF:-1 tvg-id="" tvg-name="Chef TV HD" tvg-logo="http://cclb.ddns.net:25461/images/33d632799a9f8e6e79220f10f9478eb3.png" group-title="CANAIS | ALTERNATIVOS",Chef TV HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79023
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 HD" tvg-logo="http://10gbps.stream:8080/images/f4f8eab772205c2f6a6189d1a2f871c1.png" group-title="CANAIS | ALTERNATIVOS",CINE SKY 01 HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79024
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02 HD" tvg-logo="http://10gbps.stream:8080/images/f4f8eab772205c2f6a6189d1a2f871c1.png" group-title="CANAIS | ALTERNATIVOS",CINE SKY 02 HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79025
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03 HD" tvg-logo="http://10gbps.stream:8080/images/f4f8eab772205c2f6a6189d1a2f871c1.png" group-title="CANAIS | ALTERNATIVOS",CINE SKY 03 HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79026
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04 HD" tvg-logo="http://10gbps.stream:8080/images/f4f8eab772205c2f6a6189d1a2f871c1.png" group-title="CANAIS | ALTERNATIVOS",CINE SKY 04 HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79027
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05 HD" tvg-logo="http://10gbps.stream:8080/images/f4f8eab772205c2f6a6189d1a2f871c1.png" group-title="CANAIS | ALTERNATIVOS",CINE SKY 05 HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79028
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06 HD" tvg-logo="http://10gbps.stream:8080/images/f4f8eab772205c2f6a6189d1a2f871c1.png" group-title="CANAIS | ALTERNATIVOS",CINE SKY 06 HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79029
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07 HD" tvg-logo="http://10gbps.stream:8080/images/f4f8eab772205c2f6a6189d1a2f871c1.png" group-title="CANAIS | ALTERNATIVOS",CINE SKY 07 HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79030
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08 HD" tvg-logo="http://10gbps.stream:8080/images/f4f8eab772205c2f6a6189d1a2f871c1.png" group-title="CANAIS | ALTERNATIVOS",CINE SKY 08 HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79031
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09 HD" tvg-logo="http://10gbps.stream:8080/images/f4f8eab772205c2f6a6189d1a2f871c1.png" group-title="CANAIS | ALTERNATIVOS",CINE SKY 09 HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79032
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="http://cclb.ddns.net:25461/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="CANAIS | ALTERNATIVOS",Cinemax FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79033
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="http://cclb.ddns.net:25461/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="CANAIS | ALTERNATIVOS",Cinemax HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79034
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax SD" tvg-logo="http://cclb.ddns.net:25461/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="CANAIS | ALTERNATIVOS",Cinemax SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79035
+#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil HD" tvg-logo="http://10gbps.stream:8080/images/ff7a4157153a8077212c8757fd39b8bd.png" group-title="CANAIS | ALTERNATIVOS",CNN Brasil HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79036
+#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil SD" tvg-logo="http://10gbps.stream:8080/images/ff7a4157153a8077212c8757fd39b8bd.png" group-title="CANAIS | ALTERNATIVOS",CNN Brasil SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79037
+#EXTINF:-1 tvg-id="" tvg-name="Combate FHD" tvg-logo="http://cclb.ddns.net:25461/images/758d8b1cbf0b6cee37110825fead0f77.png" group-title="CANAIS | ALTERNATIVOS",Combate FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79038
+#EXTINF:-1 tvg-id="" tvg-name="Combate HD" tvg-logo="http://cclb.ddns.net:25461/images/758d8b1cbf0b6cee37110825fead0f77.png" group-title="CANAIS | ALTERNATIVOS",Combate HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79039
+#EXTINF:-1 tvg-id="" tvg-name="Combate SD" tvg-logo="http://cclb.ddns.net:25461/images/758d8b1cbf0b6cee37110825fead0f77.png" group-title="CANAIS | ALTERNATIVOS",Combate SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79040
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="http://cclb.ddns.net:25461/images/f7029e67f22d8a43ab8d1b3deb896249.png" group-title="CANAIS | ALTERNATIVOS",Comedy Central HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79041
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central SD" tvg-logo="http://cclb.ddns.net:25461/images/f7029e67f22d8a43ab8d1b3deb896249.png" group-title="CANAIS | ALTERNATIVOS",Comedy Central SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79042
+#EXTINF:-1 tvg-id="" tvg-name="Curta! HD" tvg-logo="http://10gbps.stream:8080/images/399cf7bcbb3c17fd8802c9125c88665e.png" group-title="CANAIS | ALTERNATIVOS",Curta! HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79043
+#EXTINF:-1 tvg-id="" tvg-name="Curta! SD" tvg-logo="http://10gbps.stream:8080/images/399cf7bcbb3c17fd8802c9125c88665e.png" group-title="CANAIS | ALTERNATIVOS",Curta! SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79044
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 2020 #1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="CANAIS | ALTERNATIVOS",Copa do Nordeste 2020 #1
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79045
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 2020 #2" tvg-logo="http://10gbps.stream:8080/images/ccb291738daad7d3950d0a9a9317c368.png" group-title="CANAIS | ALTERNATIVOS",Copa do Nordeste 2020 #2
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79046
+#EXTINF:-1 tvg-id="" tvg-name="DAZN #4" tvg-logo="data:image/png;base64,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" group-title="CANAIS | ALTERNATIVOS",DAZN #4
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79047
+#EXTINF:-1 tvg-id="" tvg-name="DAZN #3" tvg-logo="data:image/png;base64,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" group-title="CANAIS | ALTERNATIVOS",DAZN #3
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79048
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel FHD" tvg-logo="http://10gbps.stream:8080/images/2bffe8e99bded440c9a326cd6751a23d.png" group-title="CANAIS | ALTERNATIVOS",Discovery Channel FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79049
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="http://10gbps.stream:8080/images/2bffe8e99bded440c9a326cd6751a23d.png" group-title="CANAIS | ALTERNATIVOS",Discovery Channel HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79050
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel SD" tvg-logo="http://10gbps.stream:8080/images/2bffe8e99bded440c9a326cd6751a23d.png" group-title="CANAIS | ALTERNATIVOS",Discovery Channel SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79051
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H HD" tvg-logo="http://10gbps.stream:8080/images/8292e81ddd286cd8342806087514c06e.png" group-title="CANAIS | ALTERNATIVOS",Discovery H&H HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79052
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H FHD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/discoveryh%26h.png" group-title="CANAIS | ALTERNATIVOS",Discovery H&H FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79053
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H SD" tvg-logo="http://10gbps.stream:8080/images/8292e81ddd286cd8342806087514c06e.png" group-title="CANAIS | ALTERNATIVOS",Discovery H&H SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79054
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids FHD" tvg-logo="http://10gbps.stream:8080/images/7ec7090630903c76f7c4d1771c873b1f.png" group-title="CANAIS | ALTERNATIVOS",Discovery Kids FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79055
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="http://10gbps.stream:8080/images/7ec7090630903c76f7c4d1771c873b1f.png" group-title="CANAIS | ALTERNATIVOS",Discovery Kids HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79056
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids SD" tvg-logo="http://10gbps.stream:8080/images/7ec7090630903c76f7c4d1771c873b1f.png" group-title="CANAIS | ALTERNATIVOS",Discovery Kids SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79057
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science FHD" tvg-logo="http://10gbps.stream:8080/images/09189c6bda55b3b599b52db11f3541fd.png" group-title="CANAIS | ALTERNATIVOS",Discovery Science FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79058
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="http://10gbps.stream:8080/images/09189c6bda55b3b599b52db11f3541fd.png" group-title="CANAIS | ALTERNATIVOS",Discovery Science HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79059
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science SD" tvg-logo="http://10gbps.stream:8080/images/09189c6bda55b3b599b52db11f3541fd.png" group-title="CANAIS | ALTERNATIVOS",Discovery Science SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79060
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater FHD" tvg-logo="http://10gbps.stream:8080/images/c02e20b3a5e776914050a01c27e07146.png" group-title="CANAIS | ALTERNATIVOS",Discovery Theater FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79061
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="http://10gbps.stream:8080/images/c02e20b3a5e776914050a01c27e07146.png" group-title="CANAIS | ALTERNATIVOS",Discovery Theater HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79062
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater SD" tvg-logo="http://10gbps.stream:8080/images/c02e20b3a5e776914050a01c27e07146.png" group-title="CANAIS | ALTERNATIVOS",Discovery Theater SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79063
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC HD" tvg-logo="http://10gbps.stream:8080/images/017a544acb713ac3b4c46402c94a07fc.png" group-title="CANAIS | ALTERNATIVOS",Discovery TLC HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79064
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC SD" tvg-logo="http://10gbps.stream:8080/images/017a544acb713ac3b4c46402c94a07fc.png" group-title="CANAIS | ALTERNATIVOS",Discovery TLC SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79065
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo FHD" tvg-logo="http://10gbps.stream:8080/images/c5e6bf72241158f09aa30e9c966269a3.png" group-title="CANAIS | ALTERNATIVOS",Discovery Turbo FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79066
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="http://10gbps.stream:8080/images/c5e6bf72241158f09aa30e9c966269a3.png" group-title="CANAIS | ALTERNATIVOS",Discovery Turbo HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79067
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo SD" tvg-logo="http://10gbps.stream:8080/images/c5e6bf72241158f09aa30e9c966269a3.png" group-title="CANAIS | ALTERNATIVOS",Discovery Turbo SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79068
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World FHD" tvg-logo="http://10gbps.stream:8080/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="CANAIS | ALTERNATIVOS",Discovery World FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79069
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="http://10gbps.stream:8080/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="CANAIS | ALTERNATIVOS",Discovery World HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79070
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World SD" tvg-logo="http://10gbps.stream:8080/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="CANAIS | ALTERNATIVOS",Discovery World SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79071
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel FHD" tvg-logo="http://10gbps.stream:8080/images/f240a4a08ef4d49a9b643168779d8491.png" group-title="CANAIS | ALTERNATIVOS",Disney Channel FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79072
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="http://10gbps.stream:8080/images/f240a4a08ef4d49a9b643168779d8491.png" group-title="CANAIS | ALTERNATIVOS",Disney Channel HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79073
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel SD" tvg-logo="http://10gbps.stream:8080/images/f240a4a08ef4d49a9b643168779d8491.png" group-title="CANAIS | ALTERNATIVOS",Disney Channel SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79074
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior FHD" tvg-logo="http://cclb.ddns.net:25461/images/307ff8770ea486ca1c7da260f53483d3.png" group-title="CANAIS | ALTERNATIVOS",Disney Junior FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79075
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior HD" tvg-logo="http://cclb.ddns.net:25461/images/307ff8770ea486ca1c7da260f53483d3.png" group-title="CANAIS | ALTERNATIVOS",Disney Junior HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79076
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior SD" tvg-logo="http://cclb.ddns.net:25461/images/307ff8770ea486ca1c7da260f53483d3.png" group-title="CANAIS | ALTERNATIVOS",Disney Junior SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79077
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD FHD" tvg-logo="http://cclb.ddns.net:25461/images/a83dec3009a0b0ba1e484864eddbd654.png" group-title="CANAIS | ALTERNATIVOS",Disney XD FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79078
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD HD" tvg-logo="http://cclb.ddns.net:25461/images/a83dec3009a0b0ba1e484864eddbd654.png" group-title="CANAIS | ALTERNATIVOS",Disney XD HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79079
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD SD" tvg-logo="http://cclb.ddns.net:25461/images/a83dec3009a0b0ba1e484864eddbd654.png" group-title="CANAIS | ALTERNATIVOS",Disney XD SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79080
+#EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="http://10gbps.stream:8080/images/e1671797c52e15f763380b45e841ec32.png" group-title="CANAIS | ALTERNATIVOS",E! HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79081
+#EXTINF:-1 tvg-id="" tvg-name="E! SD" tvg-logo="http://10gbps.stream:8080/images/e1671797c52e15f763380b45e841ec32.png" group-title="CANAIS | ALTERNATIVOS",E! SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79082
+#EXTINF:-1 tvg-id="" tvg-name="Ei Plus 1*" tvg-logo="http://10gbps.stream:8080/images/5856a9012e888d00eddeda94bb8dcb4e.png" group-title="CANAIS | ALTERNATIVOS",Ei Plus 1*
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79083
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD" tvg-logo="http://10gbps.stream:8080/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="CANAIS | ALTERNATIVOS",ESPN 2 FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79084
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="http://10gbps.stream:8080/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="CANAIS | ALTERNATIVOS",ESPN 2 HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79085
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD" tvg-logo="http://10gbps.stream:8080/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="CANAIS | ALTERNATIVOS",ESPN 2 SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79086
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil FHD" tvg-logo="http://10gbps.stream:8080/images/4bdf53db8bf5c0f4e016b07517749da5.png" group-title="CANAIS | ALTERNATIVOS",ESPN Brasil FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79087
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil HD" tvg-logo="http://10gbps.stream:8080/images/4bdf53db8bf5c0f4e016b07517749da5.png" group-title="CANAIS | ALTERNATIVOS",ESPN Brasil HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79088
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil SD" tvg-logo="http://10gbps.stream:8080/images/4bdf53db8bf5c0f4e016b07517749da5.png" group-title="CANAIS | ALTERNATIVOS",ESPN Brasil SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79089
+#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD" tvg-logo="http://10gbps.stream:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="CANAIS | ALTERNATIVOS",ESPN FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79090
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="http://10gbps.stream:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="CANAIS | ALTERNATIVOS",ESPN HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79091
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SD" tvg-logo="http://10gbps.stream:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="CANAIS | ALTERNATIVOS",ESPN SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79092
+#EXTINF:-1 tvg-id="" tvg-name="FashionTV HD" tvg-logo="http://10gbps.stream:8080/images/96c644d5b2c6070213e3b722e7966e8f.png" group-title="CANAIS | ALTERNATIVOS",FashionTV HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79093
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts SD" tvg-logo="http://10gbps.stream:8080/images/11c2dfbc9e5e1995c786c15d7afe8fdd.png" group-title="CANAIS | ALTERNATIVOS",Film & Arts SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79094
+#EXTINF:-1 tvg-id="" tvg-name="Fish TV HD" tvg-logo="http://10gbps.stream:8080/images/4d2187339c2c0f316b0849a8b027c40c.png" group-title="CANAIS | ALTERNATIVOS",Fish TV HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79095
+#EXTINF:-1 tvg-id="" tvg-name="Fish TV SD" tvg-logo="http://10gbps.stream:8080/images/4d2187339c2c0f316b0849a8b027c40c.png" group-title="CANAIS | ALTERNATIVOS",Fish TV SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79096
+#EXTINF:-1 tvg-id="" tvg-name="Food Network FHD" tvg-logo="http://cclb.ddns.net:25461/images/5382b51ca47c88d283e818ad2d1e3aca.png" group-title="CANAIS | ALTERNATIVOS",Food Network FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79097
+#EXTINF:-1 tvg-id="" tvg-name="Food Network HD" tvg-logo="http://cclb.ddns.net:25461/images/5382b51ca47c88d283e818ad2d1e3aca.png" group-title="CANAIS | ALTERNATIVOS",Food Network HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79098
+#EXTINF:-1 tvg-id="" tvg-name="Food Network SD" tvg-logo="http://cclb.ddns.net:25461/images/5382b51ca47c88d283e818ad2d1e3aca.png" group-title="CANAIS | ALTERNATIVOS",Food Network SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79099
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Fox HD" tvg-logo="http://cclb.ddns.net:25461/images/2b95d1f09b8b66c5c43622a4d9ec9a04.png" group-title="CANAIS | ALTERNATIVOS",Fox HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79100
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life FHD" tvg-logo="http://cclb.ddns.net:25461/images/bc102c9f9ee634e208b9fd58b056eb17.png" group-title="CANAIS | ALTERNATIVOS",Fox Life FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79101
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life HD" tvg-logo="http://cclb.ddns.net:25461/images/bc102c9f9ee634e208b9fd58b056eb17.png" group-title="CANAIS | ALTERNATIVOS",Fox Life HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79102
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life SD" tvg-logo="http://cclb.ddns.net:25461/images/bc102c9f9ee634e208b9fd58b056eb17.png" group-title="CANAIS | ALTERNATIVOS",Fox Life SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79103
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 1 FHD" tvg-logo="http://cclb.ddns.net:25461/images/30bbdb2c07dec6978ca36fd9d6084049.png" group-title="CANAIS | ALTERNATIVOS",Fox Premium 1 FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79104
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 1 HD" tvg-logo="http://cclb.ddns.net:25461/images/30bbdb2c07dec6978ca36fd9d6084049.png" group-title="CANAIS | ALTERNATIVOS",Fox Premium 1 HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79105
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 1 SD" tvg-logo="http://cclb.ddns.net:25461/images/30bbdb2c07dec6978ca36fd9d6084049.png" group-title="CANAIS | ALTERNATIVOS",Fox Premium 1 SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79106
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 2 FHD" tvg-logo="http://cclb.ddns.net:25461/images/a38bbff4381b53a3635bc801d705cf01.png" group-title="CANAIS | ALTERNATIVOS",Fox Premium 2 FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79107
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 2 HD" tvg-logo="http://cclb.ddns.net:25461/images/a38bbff4381b53a3635bc801d705cf01.png" group-title="CANAIS | ALTERNATIVOS",Fox Premium 2 HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79108
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 2 SD" tvg-logo="http://cclb.ddns.net:25461/images/a38bbff4381b53a3635bc801d705cf01.png" group-title="CANAIS | ALTERNATIVOS",Fox Premium 2 SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79109
+#EXTINF:-1 tvg-id="" tvg-name="Fox SD" tvg-logo="http://cclb.ddns.net:25461/images/2b95d1f09b8b66c5c43622a4d9ec9a04.png" group-title="CANAIS | ALTERNATIVOS",Fox SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79110
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 FHD" tvg-logo="http://10gbps.stream:8080/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="CANAIS | ALTERNATIVOS",Fox Sports 2 FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79111
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="http://10gbps.stream:8080/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="CANAIS | ALTERNATIVOS",Fox Sports 2 HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79112
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 SD" tvg-logo="http://10gbps.stream:8080/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="CANAIS | ALTERNATIVOS",Fox Sports 2 SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79113
+#EXTINF:-1 tvg-id="" tvg-name="Futura HD" tvg-logo="http://cclb.ddns.net:25461/images/fc93a02beef2417acb57559050863560.png" group-title="CANAIS | ALTERNATIVOS",Futura HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79114
+#EXTINF:-1 tvg-id="" tvg-name="Futura SD" tvg-logo="http://cclb.ddns.net:25461/images/fc93a02beef2417acb57559050863560.png" group-title="CANAIS | ALTERNATIVOS",Futura SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79115
+#EXTINF:-1 tvg-id="" tvg-name="FX FHD" tvg-logo="http://cclb.ddns.net:25461/images/c3f9558d681bac963339b7c69894c4f7.png" group-title="CANAIS | ALTERNATIVOS",FX FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79116
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="http://cclb.ddns.net:25461/images/c3f9558d681bac963339b7c69894c4f7.png" group-title="CANAIS | ALTERNATIVOS",FX HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79117
+#EXTINF:-1 tvg-id="" tvg-name="FX SD" tvg-logo="http://cclb.ddns.net:25461/images/c3f9558d681bac963339b7c69894c4f7.png" group-title="CANAIS | ALTERNATIVOS",FX SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79118
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Caruaru (Asa Branca) HD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo TV Caruaru (Asa Branca) HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79119
+#EXTINF:-1 tvg-id="" tvg-name="Globo Centro América Cuiaba SD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo Centro América Cuiaba SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79120
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Araraquara SD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo EPTV Araraquara SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79121
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo EPTV Campinas HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79122
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas SD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo EPTV Campinas SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79123
+#EXTINF:-1 tvg-id="" tvg-name="Globo Internacional SD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo Internacional SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79124
+#EXTINF:-1 tvg-id="" tvg-name="Globo InterTV Alto Litoral HD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo InterTV Alto Litoral HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79125
+#EXTINF:-1 tvg-id="" tvg-name="Globo InterTV Serra Mar HD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo InterTV Serra Mar HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79126
+#EXTINF:-1 tvg-id="" tvg-name="Globo News FHD" tvg-logo="http://10gbps.stream:8080/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="CANAIS | ALTERNATIVOS",Globo News FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79127
+#EXTINF:-1 tvg-id="" tvg-name="Globo News HD" tvg-logo="http://10gbps.stream:8080/images/b0f72a7ad15faadb654950e47af467ee.png" group-title="CANAIS | ALTERNATIVOS",Globo News HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79128
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste HD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo Nordeste HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79129
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste SD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo Nordeste SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79130
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Joinville SD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo NSC Joinville SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79131
+#EXTINF:-1 tvg-id="" tvg-name="Globo Petrolina HD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo Petrolina HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79132
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS Porto Alegre HD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo RBS Porto Alegre HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79133
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS Porto Alegre SD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo RBS Porto Alegre SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79134
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Pelotas HD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo RBS TV Pelotas HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79135
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazonica SD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo Rede Amazonica SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79136
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ SD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo RJ SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79137
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba HD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo RPC Curitiba HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79138
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba SD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo RPC Curitiba SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79139
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Maringa SD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo RPC Maringa SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79140
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Paranavaí SD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo RPC Paranavaí SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79141
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Sergipe HD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo TV Sergipe HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79142
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP FHD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo SP FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79143
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo SP HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79144
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP SD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo SP SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79145
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Nacional HD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo TV Nacional HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79146
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia HD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo TV Bahia HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79147
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia SD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo TV Bahia SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79148
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Diario HD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo TV Diario HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79149
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Sul ES HD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo TV Gazeta Sul ES HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79150
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Gazeta Vitória HD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo TV Gazeta Vitória HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79151
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Integração SD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo TV Integração SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79152
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Itapetininga SD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo TV Itapetininga SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79153
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante SD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo TV Mirante SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79154
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Sorocaba SD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo TV Tem Sorocaba SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79155
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tribuna Santos SD" tvg-logo="http://cclb.ddns.net:25461/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | ALTERNATIVOS",Globo TV Tribuna Santos SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79156
+#EXTINF:-1 tvg-id="" tvg-name="Gloob FHD" tvg-logo="http://cclb.ddns.net:25461/images/5e2247ab07fc3f9f14af2655d76039a6.png" group-title="CANAIS | ALTERNATIVOS",Gloob FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79157
+#EXTINF:-1 tvg-id="" tvg-name="Gloob HD" tvg-logo="http://cclb.ddns.net:25461/images/5e2247ab07fc3f9f14af2655d76039a6.png" group-title="CANAIS | ALTERNATIVOS",Gloob HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79158
+#EXTINF:-1 tvg-id="" tvg-name="Gloob SD" tvg-logo="http://cclb.ddns.net:25461/images/5e2247ab07fc3f9f14af2655d76039a6.png" group-title="CANAIS | ALTERNATIVOS",Gloob SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79159
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho SD" tvg-logo="http://10gbps.stream:8080/images/50e9728503a9bffabe5e07c912b38f89.png" group-title="CANAIS | ALTERNATIVOS",Gloobinho SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79160
+#EXTINF:-1 tvg-id="" tvg-name="GNT SD" tvg-logo="http://cclb.ddns.net:25461/images/a5e669e9a3073f1384994f3b02576748.png" group-title="CANAIS | ALTERNATIVOS",GNT SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79161
+#EXTINF:-1 tvg-id="" tvg-name="H2 FHD" tvg-logo="http://10gbps.stream:8080/images/490b2834e65737c1fce95e468cc8b8bf.png" group-title="CANAIS | ALTERNATIVOS",H2 FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79162
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="http://10gbps.stream:8080/images/490b2834e65737c1fce95e468cc8b8bf.png" group-title="CANAIS | ALTERNATIVOS",H2 HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79163
+#EXTINF:-1 tvg-id="" tvg-name="H2 SD" tvg-logo="http://10gbps.stream:8080/images/490b2834e65737c1fce95e468cc8b8bf.png" group-title="CANAIS | ALTERNATIVOS",H2 SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79164
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 FHD" tvg-logo="http://cclb.ddns.net:25461/images/a7f9c898c812805f26c4ea1e490201da.png" group-title="CANAIS | ALTERNATIVOS",HBO 2 FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79165
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="http://cclb.ddns.net:25461/images/a7f9c898c812805f26c4ea1e490201da.png" group-title="CANAIS | ALTERNATIVOS",HBO 2 HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79166
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 SD" tvg-logo="http://cclb.ddns.net:25461/images/a7f9c898c812805f26c4ea1e490201da.png" group-title="CANAIS | ALTERNATIVOS",HBO 2 SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79167
+#EXTINF:-1 tvg-id="" tvg-name="Hbo Family FHD" tvg-logo="http://cclb.ddns.net:25461/images/7ac60ed5d6e929c81d0885b615c5fd60.png" group-title="CANAIS | ALTERNATIVOS",Hbo Family FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79168
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="http://cclb.ddns.net:25461/images/7ac60ed5d6e929c81d0885b615c5fd60.png" group-title="CANAIS | ALTERNATIVOS",HBO Family HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79169
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family SD" tvg-logo="http://cclb.ddns.net:25461/images/7ac60ed5d6e929c81d0885b615c5fd60.png" group-title="CANAIS | ALTERNATIVOS",HBO Family SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79170
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD" tvg-logo="http://cclb.ddns.net:25461/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="CANAIS | ALTERNATIVOS",HBO FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79171
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://cclb.ddns.net:25461/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="CANAIS | ALTERNATIVOS",HBO HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79172
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi HD" tvg-logo="http://10gbps.stream:8080/images/d1634feb364379b13f95c2c0a464a980.png" group-title="CANAIS | ALTERNATIVOS",HBO Mundi HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79173
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi SD" tvg-logo="http://10gbps.stream:8080/images/d1634feb364379b13f95c2c0a464a980.png" group-title="CANAIS | ALTERNATIVOS",HBO Mundi SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79174
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus FHD" tvg-logo="http://10gbps.stream:8080/images/025d07370cb9c98aacd83e78e8b3a1a3.png" group-title="CANAIS | ALTERNATIVOS",HBO Plus FHD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79175
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-logo="http://10gbps.stream:8080/images/025d07370cb9c98aacd83e78e8b3a1a3.png" group-title="CANAIS | ALTERNATIVOS",HBO Plus HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79176
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus SD" tvg-logo="http://10gbps.stream:8080/images/025d07370cb9c98aacd83e78e8b3a1a3.png" group-title="CANAIS | ALTERNATIVOS",HBO Plus SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79177
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus*e HD" tvg-logo="http://10gbps.stream:8080/images/025d07370cb9c98aacd83e78e8b3a1a3.png" group-title="CANAIS | ALTERNATIVOS",HBO Plus*e HD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79178
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus*e SD" tvg-logo="http://10gbps.stream:8080/images/025d07370cb9c98aacd83e78e8b3a1a3.png" group-title="CANAIS | ALTERNATIVOS",HBO Plus*e SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79179
+#EXTINF:-1 tvg-id="" tvg-name="HBO Pop SD" tvg-logo="http://10gbps.stream:8080/images/50b30d3f27dba0e357087ad21c29d334.png" group-title="CANAIS | ALTERNATIVOS",HBO Pop SD
+http://cclb.ddns.net:25461/Vanderlei7/3591188781/79180
+#EXTINF:-1 tvg-id="" tvg-name="HBO SD" tvg-logo="http://cclb.ddns.net:25461/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="CANAIS | ALTERNATIVOS",HBO SD
